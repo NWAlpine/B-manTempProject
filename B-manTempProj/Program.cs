@@ -39,6 +39,7 @@ namespace B_manTempProj
             {
                 // Hi Bruce, you can have the app do other work
                 // while the data generator is running.
+                // or let it just run.
             }
         }
 
