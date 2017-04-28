@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace B_manTempProj
 {
+    // published at:
+    // git@github.com:NWAlpine/B-manTempProject.git
     class Program
     {
         internal enum DataType
